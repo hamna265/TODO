@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435712844159",
+    "firebase_url": "https://self-baf4c-default-rtdb.firebaseio.com",
+    "project_id": "self-baf4c",
+    "storage_bucket": "self-baf4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435712844159:android:ad2677481867e7d7217a4a",
+        "android_client_info": {
+          "package_name": "com.example.memoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435712844159-nsfa19dj4mr52e17ntelu7hc9ijhb58c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtIB8UVuA-1AJSkWxj9rAkXQeH36gZXtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435712844159-nsfa19dj4mr52e17ntelu7hc9ijhb58c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
